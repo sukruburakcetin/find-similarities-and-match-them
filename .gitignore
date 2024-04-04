@@ -1,3 +1,3 @@
 .idea/
 creds.py
-/pycache/*
+__pycache__/
