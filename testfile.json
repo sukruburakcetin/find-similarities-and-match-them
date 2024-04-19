@@ -1,0 +1,1434 @@
+{
+	"type": "FeatureCollection",
+	"name": "panorama",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9848440541,
+					41.0165153231
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4X5",
+				"recordedat": "2018-06-03 08:08:58.80 +03:00",
+				"recorderdirection": "-87.83839400206081 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.412275",
+				"shape": "414610.3607000001 4542903.859200001  ",
+				"_list": [
+					"414610.3607000001",
+					"4542903.859200001"
+				],
+				"_list{0}": "414610.3607000001",
+				"_list{1}": "4542903.859200001",
+				"longitude": 28.984844054094198,
+				"latitude": 41.01651532305031,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9847847195,
+					41.0165152371
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4X6",
+				"recordedat": "2018-06-03 08:08:59.31 +03:00",
+				"recorderdirection": "-89.89884599751713 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.447475",
+				"shape": "414605.36959999986 4542903.9077      ",
+				"_list": [
+					"414605.36959999986",
+					"4542903.9077"
+				],
+				"_list{0}": "414605.36959999986",
+				"_list{1}": "4542903.9077",
+				"longitude": 28.98478471952352,
+				"latitude": 41.01651523713057,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9847253123,
+					41.0165136099
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4X7",
+				"recordedat": "2018-06-03 08:08:59.82 +03:00",
+				"recorderdirection": "-91.88997699817448 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.461292",
+				"shape": "414600.37040000036 4542903.7851      ",
+				"_list": [
+					"414600.37040000036",
+					"4542903.7851"
+				],
+				"_list{0}": "414600.37040000036",
+				"_list{1}": "4542903.7851",
+				"longitude": 28.98472531232519,
+				"latitude": 41.01651360988577,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9846660429,
+					41.0165105188
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4X8",
+				"recordedat": "2018-06-03 08:09:00.34 +03:00",
+				"recorderdirection": "-93.81933900030228 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.469471",
+				"shape": "414595.3809000002 4542903.4998       ",
+				"_list": [
+					"414595.3809000002",
+					"4542903.4998"
+				],
+				"_list{0}": "414595.3809000002",
+				"_list{1}": "4542903.4998",
+				"longitude": 28.984666042925796,
+				"latitude": 41.01651051880665,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.984606938,
+					41.016506237
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4X9",
+				"recordedat": "2018-06-03 08:09:00.86 +03:00",
+				"recorderdirection": "-95.09601700100265 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.483013",
+				"shape": "414590.4036999997 4542903.0821       ",
+				"_list": [
+					"414590.4036999997",
+					"4542903.0821"
+				],
+				"_list{0}": "414590.4036999997",
+				"_list{1}": "4542903.0821",
+				"longitude": 28.984606938045375,
+				"latitude": 41.01650623696245,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9845479226,
+					41.0165010059
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XA",
+				"recordedat": "2018-06-03 08:09:01.39 +03:00",
+				"recorderdirection": "-95.9692939991727  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.486254",
+				"shape": "414585.4327999996 4542902.5589000005 ",
+				"_list": [
+					"414585.4327999996",
+					"4542902.5589000005"
+				],
+				"_list{0}": "414585.4327999996",
+				"_list{1}": "4542902.5589000005",
+				"longitude": 28.984547922647218,
+				"latitude": 41.01650100591096,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9844889151,
+					41.0164955741
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XB",
+				"recordedat": "2018-06-03 08:09:01.91 +03:00",
+				"recorderdirection": "-95.99848500135283 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.474495",
+				"shape": "414580.4622999998 4542902.0134       ",
+				"_list": [
+					"414580.4622999998",
+					"4542902.0134"
+				],
+				"_list{0}": "414580.4622999998",
+				"_list{1}": "4542902.0134",
+				"longitude": 28.98448891509733,
+				"latitude": 41.01649557410007,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9844298413,
+					41.0164901975
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XC",
+				"recordedat": "2018-06-03 08:09:02.44 +03:00",
+				"recorderdirection": "-95.48633600197142 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.450735",
+				"shape": "414575.4863 4542901.474099999        ",
+				"_list": [
+					"414575.4863",
+					"4542901.474099999"
+				],
+				"_list{0}": "414575.4863",
+				"_list{1}": "4542901.474099999",
+				"longitude": 28.984429841323377,
+				"latitude": 41.01649019750276,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9843706379,
+					41.0164854428
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XD",
+				"recordedat": "2018-06-03 08:09:02.96 +03:00",
+				"recorderdirection": "-94.80192999741094 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.429874",
+				"shape": "414570.50019999966 4542901.004000001 ",
+				"_list": [
+					"414570.50019999966",
+					"4542901.004000001"
+				],
+				"_list{0}": "414570.50019999966",
+				"_list{1}": "4542901.004000001",
+				"longitude": 28.98437063793368,
+				"latitude": 41.0164854428383,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9843113383,
+					41.0164811519
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XE",
+				"recordedat": "2018-06-03 08:09:03.47 +03:00",
+				"recorderdirection": "-94.17896300206743 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.387612",
+				"shape": "414565.50659999996 4542900.5855      ",
+				"_list": [
+					"414565.50659999996",
+					"4542900.5855"
+				],
+				"_list{0}": "414565.50659999996",
+				"_list{1}": "4542900.5855",
+				"longitude": 28.98431133826625,
+				"latitude": 41.01648115192255,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9842520172,
+					41.0164773227
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XF",
+				"recordedat": "2018-06-03 08:09:03.98 +03:00",
+				"recorderdirection": "-93.76455899825352 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.32596 ",
+				"shape": "414560.51180000044 4542900.2183      ",
+				"_list": [
+					"414560.51180000044",
+					"4542900.2183"
+				],
+				"_list{0}": "414560.51180000044",
+				"_list{1}": "4542900.2183",
+				"longitude": 28.98425201724768,
+				"latitude": 41.0164773227144,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.984192649,
+					41.016473783
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XG",
+				"recordedat": "2018-06-03 08:09:04.49 +03:00",
+				"recorderdirection": "-93.54560899809549 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.249187",
+				"shape": "414555.5133999996 4542899.883300001  ",
+				"_list": [
+					"414555.5133999996",
+					"4542899.883300001"
+				],
+				"_list{0}": "414555.5133999996",
+				"_list{1}": "4542899.883300001",
+				"longitude": 28.98419264899051,
+				"latitude": 41.01647378300142,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9841332117,
+					41.016470249
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XH",
+				"recordedat": "2018-06-03 08:09:04.98 +03:00",
+				"recorderdirection": "-93.58095200282052 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.156107",
+				"shape": "414550.5092000002 4542899.549000001  ",
+				"_list": [
+					"414550.5092000002",
+					"4542899.549000001"
+				],
+				"_list{0}": "414550.5092000002",
+				"_list{1}": "4542899.549000001",
+				"longitude": 28.984133211700525,
+				"latitude": 41.016470248952519,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9840738409,
+					41.0164666461
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XI",
+				"recordedat": "2018-06-03 08:09:05.46 +03:00",
+				"recorderdirection": "-93.7371320013443  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "50.045625",
+				"shape": "414545.51049999986 4542899.207       ",
+				"_list": [
+					"414545.51049999986",
+					"4542899.207"
+				],
+				"_list{0}": "414545.51049999986",
+				"_list{1}": "4542899.207",
+				"longitude": 28.98407384085964,
+				"latitude": 41.01646664612471,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9840145213,
+					41.0164628807
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XJ",
+				"recordedat": "2018-06-03 08:09:05.94 +03:00",
+				"recorderdirection": "-93.99221500043534 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.934541",
+				"shape": "414540.5159 4542898.846899999        ",
+				"_list": [
+					"414540.5159",
+					"4542898.846899999"
+				],
+				"_list{0}": "414540.5159",
+				"_list{1}": "4542898.846899999",
+				"longitude": 28.98401452126543,
+				"latitude": 41.016462880738227,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9839552564,
+					41.0164589573
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XK",
+				"recordedat": "2018-06-03 08:09:06.41 +03:00",
+				"recorderdirection": "-94.2225450023766  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.815056",
+				"shape": "414535.5257000001 4542898.4692       ",
+				"_list": [
+					"414535.5257000001",
+					"4542898.4692"
+				],
+				"_list{0}": "414535.5257000001",
+				"_list{1}": "4542898.4692",
+				"longitude": 28.98395525641514,
+				"latitude": 41.016458957326218,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9838960148,
+					41.0164548405
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XL",
+				"recordedat": "2018-06-03 08:09:06.89 +03:00",
+				"recorderdirection": "-94.45584499980386 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.693968",
+				"shape": "414530.53720000014 4542898.07        ",
+				"_list": [
+					"414530.53720000014",
+					"4542898.07"
+				],
+				"_list{0}": "414530.53720000014",
+				"_list{1}": "4542898.07",
+				"longitude": 28.983896014754654,
+				"latitude": 41.01645484049335,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9838367563,
+					41.0164505047
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XM",
+				"recordedat": "2018-06-03 08:09:07.37 +03:00",
+				"recorderdirection": "-94.64844999947134 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.551178",
+				"shape": "414525.54700000025 4542897.646500001 ",
+				"_list": [
+					"414525.54700000025",
+					"4542897.646500001"
+				],
+				"_list{0}": "414525.54700000025",
+				"_list{1}": "4542897.646500001",
+				"longitude": 28.983836756257078,
+				"latitude": 41.01645050467442,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9837775443,
+					41.0164460774
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XN",
+				"recordedat": "2018-06-03 08:09:07.84 +03:00",
+				"recorderdirection": "-94.81379900148356 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.388985",
+				"shape": "414520.56060000043 4542897.2128      ",
+				"_list": [
+					"414520.56060000043",
+					"4542897.2128"
+				],
+				"_list{0}": "414520.56060000043",
+				"_list{1}": "4542897.2128",
+				"longitude": 28.983777544348845,
+				"latitude": 41.01644607739083,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9837183197,
+					41.0164414771
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XO",
+				"recordedat": "2018-06-03 08:09:08.32 +03:00",
+				"recorderdirection": "-94.99983899916822 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.225903",
+				"shape": "414515.5729 4542896.7599             ",
+				"_list": [
+					"414515.5729",
+					"4542896.7599"
+				],
+				"_list{0}": "414515.5729",
+				"_list{1}": "4542896.7599",
+				"longitude": 28.983718319653389,
+				"latitude": 41.016441477079379,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9836591122,
+					41.0164367598
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XP",
+				"recordedat": "2018-06-03 08:09:08.79 +03:00",
+				"recorderdirection": "-95.18158299941204 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "49.054818",
+				"shape": "414510.5865000002 4542896.294        ",
+				"_list": [
+					"414510.5865000002",
+					"4542896.294"
+				],
+				"_list{0}": "414510.5865000002",
+				"_list{1}": "4542896.294",
+				"longitude": 28.98365911221862,
+				"latitude": 41.01643675983239,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9835999512,
+					41.0164318854
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XQ",
+				"recordedat": "2018-06-03 08:09:09.26 +03:00",
+				"recorderdirection": "-95.39167400062628 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.880108",
+				"shape": "414505.6037999997 4542895.8105999995 ",
+				"_list": [
+					"414505.6037999997",
+					"4542895.8105999995"
+				],
+				"_list{0}": "414505.6037999997",
+				"_list{1}": "4542895.8105999995",
+				"longitude": 28.98359995119574,
+				"latitude": 41.01643188538709,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9835408175,
+					41.0164267788
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XR",
+				"recordedat": "2018-06-03 08:09:09.73 +03:00",
+				"recorderdirection": "-95.71344399867007 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.710695",
+				"shape": "414500.62310000043 4542895.3014      ",
+				"_list": [
+					"414500.62310000043",
+					"4542895.3014"
+				],
+				"_list{0}": "414500.62310000043",
+				"_list{1}": "4542895.3014",
+				"longitude": 28.983540817526558,
+				"latitude": 41.0164267788389,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.983481726,
+					41.0164214079
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XS",
+				"recordedat": "2018-06-03 08:09:10.20 +03:00",
+				"recorderdirection": "-96.0799289981446  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.533379",
+				"shape": "414495.6456000004 4542894.762800001  ",
+				"_list": [
+					"414495.6456000004",
+					"4542894.762800001"
+				],
+				"_list{0}": "414495.6456000004",
+				"_list{1}": "4542894.762800001",
+				"longitude": 28.983481725974,
+				"latitude": 41.01642140790218,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9834227255,
+					41.0164157595
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XT",
+				"recordedat": "2018-06-03 08:09:10.66 +03:00",
+				"recorderdirection": "-96.43554800200349 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.3612  ",
+				"shape": "414490.67540000007 4542894.193299999 ",
+				"_list": [
+					"414490.67540000007",
+					"4542894.193299999"
+				],
+				"_list{0}": "414490.67540000007",
+				"_list{1}": "4542894.193299999",
+				"longitude": 28.983422725481938,
+				"latitude": 41.01641575950204,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9833637355,
+					41.0164098897
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XU",
+				"recordedat": "2018-06-03 08:09:11.13 +03:00",
+				"recorderdirection": "-96.86331000114886 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.205218",
+				"shape": "414485.70579999965 4542893.599199999 ",
+				"_list": [
+					"414485.70579999965",
+					"4542893.599199999"
+				],
+				"_list{0}": "414485.70579999965",
+				"_list{1}": "4542893.599199999",
+				"longitude": 28.983363735538008,
+				"latitude": 41.01640988965627,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9833048711,
+					41.0164034347
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XV",
+				"recordedat": "2018-06-03 08:09:11.59 +03:00",
+				"recorderdirection": "-97.52527599907151 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "48.033134",
+				"shape": "414480.7460000003 4542892.9399999995 ",
+				"_list": [
+					"414480.7460000003",
+					"4542892.9399999995"
+				],
+				"_list{0}": "414480.7460000003",
+				"_list{1}": "4542892.9399999995",
+				"longitude": 28.98330487110733,
+				"latitude": 41.016403434700389,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.983246138,
+					41.0163964811
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XW",
+				"recordedat": "2018-06-03 08:09:12.05 +03:00",
+				"recorderdirection": "-98.26820599839303 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "47.854447",
+				"shape": "414475.7966 4542892.225299999        ",
+				"_list": [
+					"414475.7966",
+					"4542892.225299999"
+				],
+				"_list{0}": "414475.7966",
+				"_list{1}": "4542892.225299999",
+				"longitude": 28.98324613799432,
+				"latitude": 41.01639648112813,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9831874758,
+					41.016389014
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XX",
+				"recordedat": "2018-06-03 08:09:12.52 +03:00",
+				"recorderdirection": "-99.0760050015834  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "47.679285",
+				"shape": "414470.85250000004 4542891.453500001 ",
+				"_list": [
+					"414470.85250000004",
+					"4542891.453500001"
+				],
+				"_list{0}": "414470.85250000004",
+				"_list{1}": "4542891.453500001",
+				"longitude": 28.983187475799626,
+				"latitude": 41.0163890139998,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9831289761,
+					41.0163807973
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XY",
+				"recordedat": "2018-06-03 08:09:12.98 +03:00",
+				"recorderdirection": "-99.94932199793713 ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "47.50292 ",
+				"shape": "414465.9210999999 4542890.598300001  ",
+				"_list": [
+					"414465.9210999999",
+					"4542890.598300001"
+				],
+				"_list{0}": "414465.9210999999",
+				"_list{1}": "4542890.598300001",
+				"longitude": 28.98312897612775,
+				"latitude": 41.01638079730769,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9830706546,
+					41.0163718951
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4XZ",
+				"recordedat": "2018-06-03 08:09:13.44 +03:00",
+				"recorderdirection": "-100.82588799730479",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "47.333352",
+				"shape": "414461.00380000006 4542889.6668      ",
+				"_list": [
+					"414461.00380000006",
+					"4542889.6668"
+				],
+				"_list{0}": "414461.00380000006",
+				"_list{1}": "4542889.6668",
+				"longitude": 28.98307065463887,
+				"latitude": 41.016371895121547,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9830124829,
+					41.016362381
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y0",
+				"recordedat": "2018-06-03 08:09:13.90 +03:00",
+				"recorderdirection": "-101.495249001061  ",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "47.163682",
+				"shape": "414456.0982999997 4542888.667199999  ",
+				"_list": [
+					"414456.0982999997",
+					"4542888.667199999"
+				],
+				"_list{0}": "414456.0982999997",
+				"_list{1}": "4542888.667199999",
+				"longitude": 28.98301248285975,
+				"latitude": 41.01636238102658,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9829543618,
+					41.0163525099
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y1",
+				"recordedat": "2018-06-03 08:09:14.36 +03:00",
+				"recorderdirection": "-101.83496800211623",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.994509",
+				"shape": "414451.1966000004 4542887.627900001  ",
+				"_list": [
+					"414451.1966000004",
+					"4542887.627900001"
+				],
+				"_list{0}": "414451.1966000004",
+				"_list{1}": "4542887.627900001",
+				"longitude": 28.98295436176534,
+				"latitude": 41.01635250987445,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9828962889,
+					41.0163425203
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y2",
+				"recordedat": "2018-06-03 08:09:14.81 +03:00",
+				"recorderdirection": "-101.94242299938148",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.830134",
+				"shape": "414446.2988 4542886.5754             ",
+				"_list": [
+					"414446.2988",
+					"4542886.5754"
+				],
+				"_list{0}": "414446.2988",
+				"_list{1}": "4542886.5754",
+				"longitude": 28.982896288875105,
+				"latitude": 41.016342520260199,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9828382337,
+					41.016332465
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y3",
+				"recordedat": "2018-06-03 08:09:15.25 +03:00",
+				"recorderdirection": "-102.02767100048499",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.674556",
+				"shape": "414441.4024 4542885.5156             ",
+				"_list": [
+					"414441.4024",
+					"4542885.5156"
+				],
+				"_list{0}": "414441.4024",
+				"_list{1}": "4542885.5156",
+				"longitude": 28.982838233655416,
+				"latitude": 41.01633246504048,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9827801213,
+					41.0163225687
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y4",
+				"recordedat": "2018-06-03 08:09:15.68 +03:00",
+				"recorderdirection": "-102.06315899790967",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.525376",
+				"shape": "414436.5014000004 4542884.4735       ",
+				"_list": [
+					"414436.5014000004",
+					"4542884.4735"
+				],
+				"_list{0}": "414436.5014000004",
+				"_list{1}": "4542884.4735",
+				"longitude": 28.982780121323548,
+				"latitude": 41.01632256866555,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9827220569,
+					41.0163124215
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y5",
+				"recordedat": "2018-06-03 08:09:16.12 +03:00",
+				"recorderdirection": "-102.12567999781574",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.374732",
+				"shape": "414431.6041000001 4542883.4035       ",
+				"_list": [
+					"414431.6041000001",
+					"4542883.4035"
+				],
+				"_list{0}": "414431.6041000001",
+				"_list{1}": "4542883.4035",
+				"longitude": 28.982722056855054,
+				"latitude": 41.01631242146073,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9826640958,
+					41.0163022742
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y6",
+				"recordedat": "2018-06-03 08:09:16.54 +03:00",
+				"recorderdirection": "-102.18946100066823",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.216984",
+				"shape": "414426.71549999993 4542882.3334      ",
+				"_list": [
+					"414426.71549999993",
+					"4542882.3334"
+				],
+				"_list{0}": "414426.71549999993",
+				"_list{1}": "4542882.3334",
+				"longitude": 28.98266409583296,
+				"latitude": 41.01630227423937,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9826061086,
+					41.0162920574
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y7",
+				"recordedat": "2018-06-03 08:09:16.97 +03:00",
+				"recorderdirection": "-102.22629599895096",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "46.080835",
+				"shape": "414421.82459999993 4542881.2556      ",
+				"_list": [
+					"414421.82459999993",
+					"4542881.2556"
+				],
+				"_list{0}": "414421.82459999993",
+				"_list{1}": "4542881.2556",
+				"longitude": 28.982606108556579,
+				"latitude": 41.01629205742315,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9825481592,
+					41.0162817707
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y8",
+				"recordedat": "2018-06-03 08:09:17.39 +03:00",
+				"recorderdirection": "-102.30776100037549",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "45.951084",
+				"shape": "414416.93680000026 4542880.17        ",
+				"_list": [
+					"414416.93680000026",
+					"4542880.17"
+				],
+				"_list{0}": "414416.93680000026",
+				"_list{1}": "4542880.17",
+				"longitude": 28.982548159228018,
+				"latitude": 41.0162817706784,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.9824901977,
+					41.0162714289
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4Y9",
+				"recordedat": "2018-06-03 08:09:17.82 +03:00",
+				"recorderdirection": "-102.39076599776179",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "45.821031",
+				"shape": "414412.04789999966 4542879.078299999 ",
+				"_list": [
+					"414412.04789999966",
+					"4542879.078299999"
+				],
+				"_list{0}": "414412.04789999966",
+				"_list{1}": "4542879.078299999",
+				"longitude": 28.982490197687857,
+				"latitude": 41.01627142886981,
+				"_predicate": "INTERSECTS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.982432296,
+					41.0162609858
+				]
+			},
+			"properties": {
+				"ILCEKN": "1327",
+				"ILCE_ADI_resolved": "FATİH",
+				"KIMLIKNO": 40317,
+				"AD": "HOCAPAŞA",
+				"imageid": "WE06S4YA",
+				"recordedat": "2018-06-03 08:09:18.24 +03:00",
+				"recorderdirection": "-102.47398199831528",
+				"datasetid": "18       ",
+				"dfsid": "1    ",
+				"path": "TR-HIGH-180610\\TR-HIGH-180610\\",
+				"image_exists": "true        ",
+				"height": "45.677076",
+				"shape": "414407.16390000004 4542877.975299999 ",
+				"_list": [
+					"414407.16390000004",
+					"4542877.975299999"
+				],
+				"_list{0}": "414407.16390000004",
+				"_list{1}": "4542877.975299999",
+				"longitude": 28.98243229597682,
+				"latitude": 41.0162609858105,
+				"_predicate": "INTERSECTS"
+			}
+		}
+	]
+}
